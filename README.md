@@ -11,6 +11,6 @@ Algorithms are developed and tesed under Ubuntu 16.04(Xenial) with following har
 Toolkits and SDK are used as below:
  - CUDA 9.1
  - cuDNN 7.1.3
- - TensorFlow 1.7
+ - TensorFlow 1.8
  - CARLA simulator
  - ROS kinetic
